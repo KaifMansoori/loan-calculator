@@ -14,6 +14,10 @@ Install my-project with npm
 
 ## Clone the Repository
 clone the repository from GitHub: git clone https://github.com/KaifMansoori/loan-calculator.git
+
+![image](https://github.com/user-attachments/assets/3a819b81-e81f-4c29-8e58-40e77cbfc6a8)
+
+
  
 ## Demo
 
